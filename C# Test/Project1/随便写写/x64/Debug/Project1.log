@@ -1,0 +1,3 @@
+﻿D:\Visual Studio 2019 源文件\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(随便写写\x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  练习7（函数）.c
+  Project1.vcxproj -> D:\Code\随便写写\write-casually\编程练习\Project1\x64\Debug\随便写写.exe
